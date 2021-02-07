@@ -1,0 +1,14 @@
+.headerRegister, .header-primary{
+    background: #ffffff;
+    color: #000000;
+}
+
+.headerUpdate{
+    background: #007bff;
+    color: #FFF;
+}
+
+.notBlock{
+    display: none;
+}
+
